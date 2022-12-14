@@ -1,1 +1,1 @@
-This project is on nested loops and functions in C programming language
+This project is on nested loops in C programming language. It also extends to functions and usage.
