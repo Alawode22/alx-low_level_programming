@@ -7,7 +7,8 @@
 
 void print_line(int n)
 {
-	g = __________;
+	char g;
+	g = '_';
 
 	if (n <= '0')
 		_putchar(g);
