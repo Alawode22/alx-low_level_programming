@@ -8,13 +8,5 @@
 
 void reset_to_98(int *n)
 {
-	int a = 402;
-
-	n = &a;
-
-	printf("n=%p\n", n);
-
-	n = 98;
-	printf("n=%p\n", n)
-	return (0);
+	*n = 98;
 }
