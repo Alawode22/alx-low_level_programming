@@ -12,5 +12,5 @@ void puts2(char *str)
 
 	str[a] = b + 2;
 	for (b = 0; b != '\0'; b++)
-		a++
+		a++;
 }
